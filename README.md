@@ -1,1 +1,1 @@
-# pascal-triabgle
+# pascal-triangle
